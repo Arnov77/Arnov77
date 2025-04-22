@@ -48,4 +48,3 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=console.log(%22Happy+Coding!%22+%F0%9F%91%8B);Keep+Learning+%F0%9F%93%9A;Code+Every+Day+%F0%9F%92%BB)
 
 </div>
-```
