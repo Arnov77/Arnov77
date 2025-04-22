@@ -4,20 +4,7 @@
 # 👨‍💻 Hi, I'm Arnov  
 ### *JavaScript Developer in the Making*  
 
-```javascript
-// Animated Coding Snippet
-const aboutMe = {
-  name: "Arnov",
-  currentFocus: "JavaScript ES6+",
-  learningNow: ["Async Programming", "DOM Manipulation", "Git"],
-  nextGoal: "React.js",
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
-};
-
-setInterval(() => {
-  console.log("Coding is my passion! 💻");
-}, 1000);
-```
+<img src="https://i.ibb.co.com/Dg7PTPpM/carbon-1.png" />
 
 </div>
 
