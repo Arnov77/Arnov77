@@ -26,8 +26,8 @@ Most are private/learning repos, but open-source contributions coming soon!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arnov77&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnov77&layout=compact&theme=radical)  
 
 ```javascript
 // Today I learned:
