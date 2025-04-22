@@ -1,40 +1,64 @@
-# 👋 Hi, I'm Arnov
 
-Aspiring developer currently focused on learning **JavaScript** and web development. I enjoy experimenting with code and building small projects!  
-
-🌱 **Currently learning:**  
-- JavaScript (ES6+)  
-- HTML & CSS  
-- Git & GitHub  
-
-🔐 **Projects:**  
-Most are private/learning repos, but open-source contributions coming soon!  
-
-💬 **Ask me about:**  
-- JavaScript fundamentals  
-- Learning programming as a beginner  
-- Helpful resources for new coders  
-
-📫 **How to reach me:**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-
-### 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arnov77&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnov77&layout=compact&theme=radical)  
+<div align="center">
+  
+# 👨‍💻 Hi, I'm Arnov  
+### *JavaScript Developer in the Making*  
 
 ```javascript
-// Today I learned:
-const learning = ["JavaScript", "Git", "Web Dev"];
-learning.forEach(topic => console.log(`Studying: ${topic}`));
+// Animated Coding Snippet
+const aboutMe = {
+  name: "Arnov",
+  currentFocus: "JavaScript ES6+",
+  learningNow: ["Async Programming", "DOM Manipulation", "Git"],
+  nextGoal: "React.js",
+  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+};
+
+setInterval(() => {
+  console.log("Coding is my passion! 💻");
+}, 1000);
 ```
-<!---
-Arnov77/Arnov77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+</div>
+
+## 🚀 My Coding Journey
+- 🔭 Currently working on: **JavaScript mini-projects**
+- 🌱 Learning: **Advanced JS concepts & Web APIs**
+- 👯 Looking to collaborate on: **Beginner-friendly OSS**
+- ⚡ Fun fact: **I started coding because it's fun to build things from scratch**
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,git,github" />
+</p>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![Arnov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnov77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+![Streak Stats](https://streak-stats.demolab.com/?user=arnov77&theme=radical)
+
+</div>
+
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://t.me/arnov77">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/arnov77">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/arnov77">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=console.log(%22Happy+Coding!%22+%F0%9F%91%8B);Keep+Learning+%F0%9F%93%9A;Code+Every+Day+%F0%9F%92%BB)
+
+</div>
+```
