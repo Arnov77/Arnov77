@@ -4,7 +4,7 @@
 # 👨‍💻 Hi, I'm Arnov  
 ### *JavaScript Developer in the Making*  
 
-<img src="https://i.ibb.co.com/ynb4MjgV/carbon-1.png" />
+<img src="https://i.ibb.co.com/ynb4MjgV/carbon-1.png"/>
 
 </div>
 
