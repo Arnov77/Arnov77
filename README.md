@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Arnov
 
 Aspiring developer currently focused on learning **JavaScript** and web development. I enjoy experimenting with code and building small projects!  
 
